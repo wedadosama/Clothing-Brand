@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt Black Edition",
+    "brand": "ZARA",
+    "price": 29.99,
+    "image": "/public/images/618CDos+SsL._AC_UL480_FMwebp_QL65_.webp"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt Summer Vibes",
+    "brand": "H&M",
+    "price": 19.99,
+    "image": "/public/images/619nIVFCjwL._AC_UL480_FMwebp_QL65_.webp"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt Urban Style",
+    "brand": "Pull&Bear",
+    "price": 24.99,
+    "image": "/public/images/718zSRxKxyL._AC_UL480_FMwebp_QL65_.webp"
+  },
+  {
+    "id": 4,
+    "name": "T-Shirt Casual Classic",
+    "brand": "UNIQLO",
+    "price": 22.50,
+    "image": "/public/images/71G3-01rGjL._AC_UL480_FMwebp_QL65_.webp"
+  },
+  {
+    "id": 5,
+    "name": "T-Shirt Oversized Fit",
+    "brand": "Bershka",
+    "price": 27.75,
+    "image": "/public/images/71Lzgr1SU4L._AC_UL480_FMwebp_QL65_.webp"
+  }
+]
